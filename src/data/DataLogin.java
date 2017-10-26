@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 import entity.Persona;
-import ui.Login;
+
 
 public class DataLogin {
 	
